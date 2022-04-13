@@ -1,0 +1,5 @@
+FROM ubuntu:22.04
+
+ENV VERSION=1
+
+RUN echo $VERSION
