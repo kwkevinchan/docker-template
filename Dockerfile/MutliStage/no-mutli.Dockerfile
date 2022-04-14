@@ -1,6 +1,6 @@
 FROM node:17
 
-COPY ./hellow-world/ /var/www/app
+COPY ./hello-world/ /var/www/app
 
 RUN yarn install
 

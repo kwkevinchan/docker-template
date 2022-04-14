@@ -1,3 +1,3 @@
 FROM apline:3.15.4
 
-FROM ubu:22.04
+FROM ubuntu:22.04
